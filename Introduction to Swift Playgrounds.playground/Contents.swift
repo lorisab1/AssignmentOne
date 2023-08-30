@@ -20,3 +20,15 @@ var mySecondVariable = " and look I added 2 strings together"
 var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
+
+var myFourthVariable: String
+
+myFourthVariable = "Hello"
+
+var myFifthVariable = " My"
+
+var mySixthVariable = " Name"
+
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+print(mySeventhVariable)
