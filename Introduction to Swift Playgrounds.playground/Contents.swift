@@ -23,17 +23,17 @@ print(myThirdVariable)
 
 //Assignment #2 On Your Own Part 9
 
-var myFourthVariable: String
+var flowerOne: String
 
-myFourthVariable = "Hello"
+flowerOne = "Daisies,"
 
-var myFifthVariable = " My"
+var flowerTwo = " sunflowers,"
 
-var mySixthVariable = " Name"
+var flowerThree = " and chrysanthemums"
 
-var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+var bouquet = flowerOne + flowerTwo + flowerThree
 
-print(mySeventhVariable)
+print(bouquet)
 
 //Assignement #3 Introduction to True and False
 
