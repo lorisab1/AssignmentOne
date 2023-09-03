@@ -52,5 +52,11 @@ var comparison = numberOne > numberTwo
 
 //Part 7 On Your Own Part 1:
 
+var hello = "one"
+var hi = "1"
+
+var hey = hello == hi
+
+print(hey)
 
 //Part 8 On Your Own Part 2
